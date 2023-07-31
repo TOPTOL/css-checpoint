@@ -3,6 +3,12 @@ body {
     padding: 0;
     background-image: url(./images/office\ desk.img.jpg);
     background-size: cover;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+img{
+    border-radius: 50px;
 }
 
 nav{
@@ -19,6 +25,7 @@ label.logo{
     font-style: oblique;
     font-weight: bold;
     padding: 50PX 100px;
+
 }
 nav ul li{
     display: inline-block;
